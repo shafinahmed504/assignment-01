@@ -93,3 +93,50 @@
 }
 
 /* video part done */
+#current-target-text{
+     text-align: center; 
+}
+#html{
+    background-color:  rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    width: 304px;
+    height: 294px;
+    padding: 40px;
+   
+    
+}
+#css{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+width: 304px;
+height: 294px;
+padding: 40px;
+}
+
+#javascript{
+
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    width: 304px;
+height: 294px;
+padding: 40px;
+
+}
+
+#current-target-skills{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cts-h{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+}
+.cts-p{
+    color: rgba(13,19,33, 0.7);
+}
+.a1{
+    color: black;
+}
+/* current target part done */
